@@ -53,8 +53,7 @@
     <UnityVersion>2020.3.22f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\rigi.cs" />
-    <Compile Include="Assets\CarPlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\CarPlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
