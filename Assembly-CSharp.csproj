@@ -54,6 +54,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CarPlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\GroundMove.cs" />
+    <Compile Include="Assets\Scripts\SpawnDeleteGround.cs" />
+    <Compile Include="Assets\Scripts\MoveAngryBlock.cs" />
+    <Compile Include="Assets\Scripts\AngryBlockSpawn.cs" />
+    <Compile Include="Assets\Scripts\AngryBlockDelete.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
