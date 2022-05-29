@@ -127,7 +127,10 @@ m_PackageAssets:
         - 7.0.4
         - 7.0.5
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         - 7.0.6
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         - 8.0.0-pre.3

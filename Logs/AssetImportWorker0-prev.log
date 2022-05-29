@@ -1,17 +1,23 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.22f1 (e1a7f79fd887) revision 14788599'; Using compiler version '192528614'; Build Type 'Release'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 OS: 'Windows 10 Pro; OS build 19043.1706; Version 2009; 64bit' Language: 'ru' Physical Memory: 16299 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
 D:\Unity\2020.3.22f1\Editor\Unity.exe
 =======
+=======
+>>>>>>> Stashed changes
 OS: 'Windows 10 Home; OS build 19043.1706; Version 2009; 64bit' Language: 'ru' Physical Memory: 16270 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
 E:\unity\2020.3.22f1\Editor\Unity.exe
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 -adb2
 -batchMode
@@ -19,6 +25,7 @@ E:\unity\2020.3.22f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 D:/Unity/Projects/racing
 -logFile
@@ -58,6 +65,8 @@ Domain Reload Profiling:
 	ReloadAssembly (1236ms)
 		BeginReloadAssembly (74ms)
 =======
+=======
+>>>>>>> Stashed changes
 E:/unity/projects/racing
 -logFile
 Logs/AssetImportWorker0.log
@@ -95,12 +104,16 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (1037ms)
 		BeginReloadAssembly (60ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 		EndReloadAssembly (450ms)
 			LoadAssemblies (74ms)
@@ -117,6 +130,8 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (82ms)
 				ProcessInitializeOnLoadMethodAttributes (28ms)
 =======
+=======
+>>>>>>> Stashed changes
 		EndReloadAssembly (384ms)
 			LoadAssemblies (59ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -131,6 +146,9 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (7ms)
 				ProcessInitializeOnLoadAttributes (71ms)
 				ProcessInitializeOnLoadMethodAttributes (24ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -138,6 +156,7 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Registered in 0.004987 seconds.
 Begin MonoManager ReloadAssembly
@@ -169,6 +188,8 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (210ms)
 				ProcessInitializeOnLoadMethodAttributes (23ms)
 =======
+=======
+>>>>>>> Stashed changes
 Registered in 0.004515 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -198,6 +219,9 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (71ms)
 				ProcessInitializeOnLoadAttributes (200ms)
 				ProcessInitializeOnLoadMethodAttributes (14ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
@@ -206,6 +230,7 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
 Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
@@ -217,6 +242,8 @@ System memory in use after: 98.0 MB.
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2637.
 Total: 4.148100 ms (FindLiveObjects: 0.373500 ms CreateObjectMapping: 0.121000 ms MarkObjects: 3.548700 ms  DeleteObjects: 0.102800 ms)
 =======
+=======
+>>>>>>> Stashed changes
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
 Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -226,6 +253,7 @@ System memory in use after: 95.5 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2616.
 Total: 3.134000 ms (FindLiveObjects: 0.190400 ms CreateObjectMapping: 0.061600 ms MarkObjects: 2.774600 ms  DeleteObjects: 0.106300 ms)
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -291,6 +319,8 @@ System memory in use after: 96.0 MB.
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2639.
 Total: 3.542600 ms (FindLiveObjects: 0.277900 ms CreateObjectMapping: 0.105000 ms MarkObjects: 3.135300 ms  DeleteObjects: 0.022700 ms)
+=======
+>>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -304,6 +334,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
   Time since last request: 46.519973 seconds.
   path: Assets/Prefabs/angryblock.prefab
   artifactKey: Guid(9c71a813ff557744780504b032a69306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -342,6 +373,8 @@ Received Import Request.
 Start importing Assets/MainMenu.cs using Guid(1a78255ebc25b124b9314092d5222b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3baffdfb93a214415235f472d5b8b02f') in 0.004787 seconds 
   Import took 0.008369 seconds .
 =======
+=======
+>>>>>>> Stashed changes
   path: Packages/com.unity.textmeshpro/package.json
   artifactKey: Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Packages/com.unity.textmeshpro/package.json using Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c6d4de5db3a39bcb3575c98dc9df750') in 0.045569 seconds 
@@ -386,11 +419,15 @@ Received Import Request.
   artifactKey: Guid(bd3fc9edf50a6454cb11d0828a53f380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/UltraSuperDuperBeta.unity using Guid(bd3fc9edf50a6454cb11d0828a53f380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b5944cd25c3ba90e66b83e25b8d15ce') in 0.005881 seconds 
   Import took 0.008795 seconds .
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Registered in 0.010165 seconds.
 Begin MonoManager ReloadAssembly
@@ -415,6 +452,8 @@ Domain Reload Profiling:
 			RebuildScriptCaches (54ms)
 			SetupLoadedEditorAssemblies (368ms)
 =======
+=======
+>>>>>>> Stashed changes
 Registered in 0.004873 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -437,11 +476,15 @@ Domain Reload Profiling:
 			ReleaseScriptCaches (2ms)
 			RebuildScriptCaches (52ms)
 			SetupLoadedEditorAssemblies (384ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 				BeforeProcessingInitializeOnLoad (97ms)
 				ProcessInitializeOnLoadAttributes (249ms)
@@ -460,6 +503,8 @@ System memory in use after: 99.1 MB.
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2648.
 Total: 8.038000 ms (FindLiveObjects: 0.433800 ms CreateObjectMapping: 0.172100 ms MarkObjects: 7.401700 ms  DeleteObjects: 0.028200 ms)
 =======
+=======
+>>>>>>> Stashed changes
 				BeforeProcessingInitializeOnLoad (76ms)
 				ProcessInitializeOnLoadAttributes (284ms)
 				ProcessInitializeOnLoadMethodAttributes (13ms)
@@ -476,6 +521,9 @@ System memory in use after: 94.9 MB.
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2618.
 Total: 5.385800 ms (FindLiveObjects: 0.420600 ms CreateObjectMapping: 0.125500 ms MarkObjects: 4.803900 ms  DeleteObjects: 0.031300 ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -491,6 +539,7 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Registered in 0.004989 seconds.
 Begin MonoManager ReloadAssembly
@@ -522,6 +571,8 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (206ms)
 				ProcessInitializeOnLoadMethodAttributes (11ms)
 =======
+=======
+>>>>>>> Stashed changes
 Registered in 0.005807 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -551,12 +602,16 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (60ms)
 				ProcessInitializeOnLoadAttributes (230ms)
 				ProcessInitializeOnLoadMethodAttributes (13ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (9ms)
 Platform modules already initialized, skipping
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -623,6 +678,8 @@ System memory in use after: 99.1 MB.
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2652.
 Total: 3.906200 ms (FindLiveObjects: 0.224800 ms CreateObjectMapping: 0.099400 ms MarkObjects: 3.537700 ms  DeleteObjects: 0.042700 ms)
 =======
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2172 Unused Serialized files (Serialized files now loaded: 0)
@@ -631,6 +688,9 @@ System memory in use after: 95.0 MB.
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2620.
 Total: 4.172100 ms (FindLiveObjects: 0.277700 ms CreateObjectMapping: 0.081000 ms MarkObjects: 3.778700 ms  DeleteObjects: 0.032900 ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
