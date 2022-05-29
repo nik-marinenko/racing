@@ -4,22 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: Assets/Scenes/Menu.unity
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    guid: 68e16f7966b2d554885c4aefef3cbcea
-=======
-    guid: a5f5ec49452afe645ba6b947cadd246b
->>>>>>> Stashed changes
-=======
-    guid: a5f5ec49452afe645ba6b947cadd246b
->>>>>>> Stashed changes
-  - enabled: 1
-    path: Assets/Scenes/UltraSuperDuperBeta.unity
-    guid: bd3fc9edf50a6454cb11d0828a53f380
+  m_Scenes: []
   m_configObjects: {}
