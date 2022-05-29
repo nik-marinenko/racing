@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 4982266614616596801}
   - component: {fileID: 4982266614616596800}
   - component: {fileID: 4982266614616596804}
+  - component: {fileID: 5961154339711241452}
   m_Layer: 0
   m_Name: PlayersCar
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -122,6 +123,7 @@ MonoBehaviour:
   SpeedDown: 12
   SpeedLeftRight: 11
   SpeedUp: 7
+  carRotate: 0
 --- !u!61 &4982266614616596804
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -148,3 +150,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &5961154339711241452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4982266614616596803}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24e0dbfc56902d846b8ba26e0271eae9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
